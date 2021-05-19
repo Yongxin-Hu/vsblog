@@ -141,3 +141,8 @@
 	```
 </details>
 
+### 配置Gittalk
+
+将自己的Client ID和Client Secret以及其他选项填入Gittalk配置中。
+
+![](https://raw.githubusercontent.com/Yongxin-Hu/PicBegRepo/main/20210531213527.png)
